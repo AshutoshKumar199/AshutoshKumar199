@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshutoshKumar199
-- 👀 I’m interested in UI/UX Designer Roles
-- 🌱 I’m currently looking for opportunities as UI/UX Designer
+- 👀 I’m interested in Data Specific Roles
+- 🌱 I’m currently looking for opportunities as Data Analyst
 - 💞️ I’m looking to collaborate on github platform
 - 📫 I can be contacted by mail on ashutosh97.kumar@gmail.com
 
